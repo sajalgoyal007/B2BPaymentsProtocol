@@ -104,7 +104,3 @@ ST2FB6JC5TTS8R1AX9MEEHAJ44DNFK6M84515X0DT.B2BPaymentsProtocol
 - Comprehensive documentation and SDKs
 
 ---
-
-**Built on Stacks | Powered by Bitcoin Security**
-
-*For technical documentation, API references, and integration guides, visit our developer portal.*

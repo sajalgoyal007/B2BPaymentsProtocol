@@ -57,7 +57,9 @@ Our vision encompasses:
 
 ## Contract Address Details
 
-*Contract addresses will be updated after deployment*
+ST2FB6JC5TTS8R1AX9MEEHAJ44DNFK6M84515X0DT.B2BPaymentsProtocol
+<img width="1861" height="792" alt="image" src="https://github.com/user-attachments/assets/6a358d86-8a44-4d50-950f-3aebc74c3a2a" />
+
 
 ### Mainnet Deployment
 - **Contract Address**: `[To be added after mainnet deployment]`

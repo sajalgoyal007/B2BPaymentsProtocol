@@ -1,0 +1,18 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://api.testnet.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: B2BPaymentsProtocol
+            expected-sender: ST2FB6JC5TTS8R1AX9MEEHAJ44DNFK6M84515X0DT
+            cost: 54790
+            path: "contracts\\B2BPaymentsProtocol.clar"
+            anchor-block-only: true
+            clarity-version: 3
+      epoch: "3.2"

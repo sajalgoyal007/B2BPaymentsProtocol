@@ -61,26 +61,6 @@ ST2FB6JC5TTS8R1AX9MEEHAJ44DNFK6M84515X0DT.B2BPaymentsProtocol
 
 <img width="1864" height="895" alt="image" src="https://github.com/user-attachments/assets/f71468a3-aa9a-450f-a090-c55aad27b9b1" />
 
-
-### Mainnet Deployment
-- **Contract Address**: `[To be added after mainnet deployment]`
-- **Network**: Stacks Mainnet
-- **Deployment Block**: `[To be added]`
-- **Transaction ID**: `[To be added]`
-
-### Testnet Deployment
-- **Contract Address**: `[To be added after testnet deployment]`
-- **Network**: Stacks Testnet
-- **Deployment Block**: `[To be added]`
-- **Transaction ID**: `[To be added]`
-
-### Contract Verification
-- **Source Code**: Available on GitHub
-- **Verification Status**: `[To be verified]`
-- **Audit Status**: `[To be audited]`
-
----
-
 ## Key Features
 
 - **0.5% Protocol Fee**: Significantly lower than traditional 3-7% banking fees
@@ -104,3 +84,4 @@ ST2FB6JC5TTS8R1AX9MEEHAJ44DNFK6M84515X0DT.B2BPaymentsProtocol
 - Comprehensive documentation and SDKs
 
 ---
+
